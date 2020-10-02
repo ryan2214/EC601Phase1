@@ -8,3 +8,14 @@ I tried to get the user information by its *SCREEN_NAME*, and the API brings me 
 I also tried to retrive one single tweet by its *TWEET_ID*. The ID is shown in the url when you read a certain tweet.
 
 And I used the search function to get last 10 tweets about Trump using *SEARCH_TERM*, it works.
+
+# EC601Phase1b
+
+I tried the NLP API in "Hello, world!".
+
+PS G:\2020FAll\EC601> python NLPTest.py
+
+Text: Hello, world!
+
+Sentiment: 0.6000000238418579, 0.6000000238418579
+
